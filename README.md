@@ -1,6 +1,5 @@
-# Deonorla.github.io
+# BEAT
 
-# Beat
 
 Beat is a responsive Ecommerce website for different categories of the  Beat brand headset.
 
